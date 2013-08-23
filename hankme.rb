@@ -9,8 +9,8 @@ episode_number = num_episodes_in_prior_seasons + e
 episode_info = File.read("episode_info.txt").split("\n").map{|row| row.split("\t") }[episode_number]
 formatted_episode_info = [episode_info[2], "Air Date: #{episode_info[-2]}", "Directed By: #{episode_info[3]}", "Written By: #{episode_info[4]}"].join("\n")
 
-puts "*****************************************************************************************"
+puts
 puts "Season #{s} Episode #{e} (##{episode_number})"
 puts formatted_episode_info
-puts "*******************************************DKR*******************************************"
+puts
 exit
