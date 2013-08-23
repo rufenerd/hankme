@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -
-EPISODE_INFO ||= %(Let's make this a 1 indexed list. I hope you enjoy Hankme!
+# From wikipedia on 8/22/2013
 1	1	"Pilot"	Wes Archer	Mike Judge & Greg Daniels	January 12, 1997	4E01
 2	2	"Square Peg"	Gary McCarver	Joe Stillman	January 19, 1997	4E02
 3	3	"The Order of the Straight Arrow"	Klay Hall	Cheryl Holliday	February 2, 1997	4E03
@@ -258,5 +257,4 @@ EPISODE_INFO ||= %(Let's make this a 1 indexed list. I hope you enjoy Hankme!
 256	21	"Bill Gathers Moss"	Michael Loya	Aron Abrams & Gregory Thompson	May 4, 2010	DABE14
 257	22	"When Joseph Met Lori, and Made Out with Her in the Janitor's Closet"	Ken Wong	Sanjay Shah	May 5, 2010	DABE15
 258	23	"Just Another Manic Kahn-Day"	Jack Perkins & Steve Robertson	Jennifer Barrow	May 6, 2010	DABE16
-259	24	"To Sirloin with Love"	Kyounghee Lim	Jim Dauterive Tony Gama-Lobo & Rebecca May Christy Stratton	September 13, 2009	DABE17).split("
-")
+259	24	"To Sirloin with Love"	Kyounghee Lim	Jim Dauterive Tony Gama-Lobo & Rebecca May Christy Stratton	September 13, 2009	DABE17
